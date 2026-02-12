@@ -1,5 +1,6 @@
 
-![Work On It In Progress GIF by Ceetrus](https://github.com/user-attachments/assets/aeb179d4-e99e-4796-9a7e-7baaff6a6abb)
+![WorkOnItInProgressGIFbyCeetrus-ezgif com-resize](https://github.com/user-attachments/assets/031c6042-824c-4822-927e-9f620cabb8a0)
+
 
 <!--
 **betsgascon/betsgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
