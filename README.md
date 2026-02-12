@@ -1,4 +1,5 @@
-## senior front-end developer
+
+![Work On It In Progress GIF by Ceetrus](https://github.com/user-attachments/assets/aeb179d4-e99e-4796-9a7e-7baaff6a6abb)
 
 <!--
 **betsgascon/betsgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
